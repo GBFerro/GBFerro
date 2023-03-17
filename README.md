@@ -19,6 +19,6 @@
 <img src="[https://random-memer.herokuapp.com/](https://i.pinimg.com/originals/64/69/ce/6469ce6d52437adfbc4f60428953bf2e.jpg)" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GBFerro&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GBFerro&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
