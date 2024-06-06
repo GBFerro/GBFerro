@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏡 I'm working at 5by5 Soluções em Sistemas<br><br>🌱 I’m currently learning C#, .NET, Docker, SQL<br><br>📫 How to reach me giovani.ferro@usp.br<br><br>⚡ Fun fact I'm a Mechanical Engeneer
+🏡 I'm working at 5by5 Soluções em Sistemas<br><br>🌱 I’m currently learning C#, .NET, Docker, SQL<br><br>📫 How to reach me giovaniferro29@gmail.com<br><br>⚡ Fun fact I'm a Mechanical Engeneer
 
 
 ## 🌐 Socials:
